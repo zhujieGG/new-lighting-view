@@ -1,0 +1,8 @@
+{
+  "name": "Remix VESTA - 智能照明控制",
+  "description": "VESTA 智能照明控制系统，采用温暖精致的品牌设计语言，支持 Matter 与 BLE Mesh 协议的专业移动端照明管理应用。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
